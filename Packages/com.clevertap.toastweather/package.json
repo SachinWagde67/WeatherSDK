@@ -1,0 +1,7 @@
+{
+  "name": "com.clevertap.toastweather",
+  "version": "1.0.0",
+  "displayName": "Toast Weather SDK",
+  "unity": "2021.1",
+  "description": "Unity package to show native Toast/Snackbar and Weather info"
+}
